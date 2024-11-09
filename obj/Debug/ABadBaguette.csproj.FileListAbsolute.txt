@@ -1,0 +1,17 @@
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\obj\Debug\ABadBaguette.csproj.AssemblyReference.cache
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\obj\Debug\ABadBaguette.csproj.CoreCompileInputs.cache
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\ABadBaguette.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\ABadBaguette.pdb
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\0Harmony.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\assembly_utils.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\assembly_valheim.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\BepInEx.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\Jotunn.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\UnityEngine.CoreModule.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\UnityEngine.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\obj\Debug\ABadBagu.49962B9A.Up2Date
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\obj\Debug\ABadBaguette.dll
+D:\Projects\Studio Projects\ABadBaguette\ABadBaguette\obj\Debug\ABadBaguette.pdb
